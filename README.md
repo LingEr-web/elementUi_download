@@ -24,3 +24,12 @@
 
 3、可以使用淘宝镜像下载被墙包,不存在以上问题
 
+4、运行：
+
+   从github上面下载elementui源码,  https://github.com/ElemeFE/element/blob/master/.github/CONTRIBUTING.zh-CN.md
+   
+   npm run dev可以自动安装所有依赖
+   
+   需要的环境有node.js, yarn, npm
+   
+
